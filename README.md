@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-<img width="400" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36F7BB&width=435&lines=Let's+Connect!;Hi%2C+I'm+Husain+Bhattiwala"/>
+<img width="400" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36F7BB&width=435&lines=Let's+Connect!;Hi%2C+I'm+Husain"/>
 </div>
 
 ## About Me
