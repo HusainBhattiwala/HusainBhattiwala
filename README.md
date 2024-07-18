@@ -16,8 +16,8 @@ Learning & Exploring technologies is my second favrouite task after solving a bu
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb,nextjs,redux" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,typescript,c,python&theme=dark"></td>
 </tr>
 	<tr>
 	<td><strong>Tools</strong></td>
