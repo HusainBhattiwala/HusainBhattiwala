@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Pritika%F0%9F%91%8B;Let's+Connect!"/>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7BB&width=435&lines=Hi+i+am+Husain+Bhattiwala)](https://git.io/typing-svg)
 </div>
 
 ## About Me
