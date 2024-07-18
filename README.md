@@ -30,7 +30,8 @@ Learning & Exploring technologies is my second favrouite task after solving a bu
 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=HusainBhattiwala&theme=midnight-purple" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=HusainBhattiwala&theme=holi-theme">
+![](https://github-readme-stats.vercel.app/api?username=HusainBhattiwalaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HusainBhatttiwala&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusainBhattiwala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
